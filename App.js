@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import { View, Text, Button } from "react-native";
+import { View, Button } from "react-native";
 import TowRequest from "./screens/TowRequest";
 import Payments from "./screens/Payments";
 
